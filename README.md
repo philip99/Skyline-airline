@@ -7,6 +7,7 @@ email after the reservation is completed. Each user is able to see the booked fl
 As an admin, an export to an Xcel document with all details about all users is accessible. Also, admins can see profiles of the users that posted reviews and they
 can choose for each of them to make them admins or delete their account.
 Extra:
+
 -search for a flight by departure date on the home page (not checked by the teacher)
 
 -API using tokens
