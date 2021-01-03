@@ -30,6 +30,4 @@ Extra:
 
 The website made using Laravel, and bootstrap.
 
-Website Link:
-https://skyline66.000webhostapp.com/
 
